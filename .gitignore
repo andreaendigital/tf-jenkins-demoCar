@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.log
+
+# SSH keys
+*.pem
+*.key
+*.pub
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
